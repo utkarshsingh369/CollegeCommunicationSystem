@@ -14,8 +14,8 @@ public class Institute {
     String email;//emailid of user
     String password;//password of user
     public Institute(){//Default constructor(Non parameterized constructor is called)
-        this.email= "oopgroupassignmentinstitute@gmail.com";//Default ID
-        this.password= "ramdeobaba123";//Default Password
+        this.email= "********@gmail.com";//Default ID
+        this.password= "*******";//Default Password
     }
     public Institute(String email, String password) {//If arguments are passed, then this constructor is called
         this.email = email;
